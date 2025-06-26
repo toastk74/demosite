@@ -35,7 +35,7 @@ class GGG {
     }
     }
     }
-var adventure= 'aHR0cHM6Ly90YW5kYXJ0c3ByaW5jZW5oYWdlLm5s' /*base64*/ ;
+var adventure= 'aHR0cHM6Ly9leGFtcGxlLmNvbQ==' /*base64*/ ;
 var overseas= atob(adventure)
 
 	//Creates new ABC
