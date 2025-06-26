@@ -1,4 +1,4 @@
-class GGG {
+class AAA {
     constructor(config = {}) {
     this.type = config.type || "blank"
     this.url = config.url || "about:blank"
@@ -35,18 +35,18 @@ class GGG {
     }
     }
     }
-var adventure= 'aHR0cHM6Ly9leGFtcGxlLmNvbQ==' /*base64*/ ;
-var overseas= atob(adventure)
+var mazzalito= 'aHR0cHM6Ly9leGFtcGxlLmNvbQ==' /*base64*/ ;
+var foreign= atob(mazzalito)
 
 	//Creates new ABC
-    var page = new GGG({
+    var page = new AAA({
             "type": "blank", //Blank, blob, or overwrite
-            "url": overseas //Any url
+            "url": foreign //Any url
         })
     //Set the type
 page.setType("blank")
 //Set the url
-page.setUrl(overseas)
+page.setUrl(foreign)
 //Get iframe code
 console.log(page.getCode())
 //Open page
